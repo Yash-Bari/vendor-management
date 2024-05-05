@@ -46,7 +46,7 @@ python manage.py createsuperuser
 python manage.py runserver
 ```
 
-7. Access the application in your web browser at `http://127.0.0.1:8000/`.
+7. Access the application in your web browser at `http://127.0.0.1:8000/api`.
 
 ## Usage
 
